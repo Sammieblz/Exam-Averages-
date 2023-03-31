@@ -1,0 +1,13 @@
+C:\Users\samue\Desktop\VisualBasic2023\VBExamAverages\VBExamAverages\bin\Debug\VBExamAverages.exe.config
+C:\Users\samue\Desktop\VisualBasic2023\VBExamAverages\VBExamAverages\bin\Debug\VBExamAverages.exe
+C:\Users\samue\Desktop\VisualBasic2023\VBExamAverages\VBExamAverages\bin\Debug\VBExamAverages.pdb
+C:\Users\samue\Desktop\VisualBasic2023\VBExamAverages\VBExamAverages\bin\Debug\VBExamAverages.xml
+C:\Users\samue\Desktop\VisualBasic2023\VBExamAverages\VBExamAverages\obj\Debug\VBExamAverages.vbproj.AssemblyReference.cache
+C:\Users\samue\Desktop\VisualBasic2023\VBExamAverages\VBExamAverages\obj\Debug\VBExamAverages.vbproj.SuggestedBindingRedirects.cache
+C:\Users\samue\Desktop\VisualBasic2023\VBExamAverages\VBExamAverages\obj\Debug\VBExamAverages.Form1.resources
+C:\Users\samue\Desktop\VisualBasic2023\VBExamAverages\VBExamAverages\obj\Debug\VBExamAverages.Resources.resources
+C:\Users\samue\Desktop\VisualBasic2023\VBExamAverages\VBExamAverages\obj\Debug\VBExamAverages.vbproj.GenerateResource.cache
+C:\Users\samue\Desktop\VisualBasic2023\VBExamAverages\VBExamAverages\obj\Debug\VBExamAverages.vbproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\VisualBasic2023\VBExamAverages\VBExamAverages\obj\Debug\VBExamAverages.exe
+C:\Users\samue\Desktop\VisualBasic2023\VBExamAverages\VBExamAverages\obj\Debug\VBExamAverages.xml
+C:\Users\samue\Desktop\VisualBasic2023\VBExamAverages\VBExamAverages\obj\Debug\VBExamAverages.pdb
